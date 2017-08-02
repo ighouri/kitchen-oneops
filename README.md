@@ -38,20 +38,22 @@ suites:
 ```
 
 ## Sample execution commands
-`kitchen create
+`kitchen create`
+```yaml
 -----> Starting Kitchen (v1.16.0)
 -----> Creating <suit-name-platform-name>...
        creating org now...
        creating assembly now...
        Finished creating <suit-name-platform-name> (0m2.81s).
 -----> Kitchen is finished. (0m3.12s)
-`
+```
 
-`kitchen delete
+`kitchen delete`
+```yaml
 -----> Starting Kitchen (v1.16.0)
 -----> Destroying <suit-name-platform-name>...
        deleting assembly now...
        deleting org now...
        Finished destroying <suit-name-platform-name> (0m2.64s).
 -----> Kitchen is finished. (0m2.93s)
-`
+````
