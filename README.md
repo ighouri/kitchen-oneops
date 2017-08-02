@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <a name="title"></a> Kitchen::Oneops
 
 A Test Kitchen Driver for Oneops.
@@ -62,3 +63,6 @@ Apache 2.0 (see [LICENSE][license])
 [repo]:             https://github.com/enter-github-user/kitchen-oneops
 [driver_usage]:     http://docs.kitchen-ci.org/drivers/usage
 [chef_omnibus_dl]:  http://www.chef.io/chef/install/
+=======
+# kitchen-oneops
+>>>>>>> eef4739e9a2e1504deb8c91679b8754aec8f799e
