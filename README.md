@@ -21,7 +21,7 @@ driver:
 ---
 driver:
   name: oneops
-  auth_token: 'FTS4exWctNzyEyDB2oUo'
+  auth_token: 'changeme'
   server_url: 'https://web.dev.oneops.walmart.com'
   org_name: 'ighouri-kitchen'
   assembly_name: 'kitchen-oneops'
